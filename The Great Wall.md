@@ -1,4 +1,4 @@
-\[White-paper analysis]
+\[White-paper notes]
 🇬🇧
 # Key points
 
@@ -39,7 +39,7 @@ The potential victim is not weak to blackmail by taking a device hostage and the
 **Possession-based authentication** introduces the problem of remote monitoring the key or device, again in terms of costs and attack vectors.  
 If an object is required, that should be stored physically far from the owner for security reasons, which clashes with the need for availability for practical reasons. With KBA this problem translates to the security being determined by the protocol itself and the key being available at any time.
 
-## ==Self-custody = resistance to coercion==
+## Self-custody = resistance to coercion
 
 ## Emergent obscurity
 
@@ -105,7 +105,7 @@ Come sempre, le **terze parti fidate** andrebbero evitate in quanto rappresentan
 L'autenticazione per possesso introduce il problema del monitoraggio a distanza di una chiave o un dispositivo, introducendo anch'essa costi e vettori d'attacco.
 Se l'autenticazione richiede il possesso di un oggetto, quell'oggetto andrebbe conservato fisicamente lontano dall'utilizzatore per questioni di sicurezza, il che si scontrerebbe con la necessità di averlo a portata per questioni di praticità. Con l'autenticazione per conoscenza questo problema si traduce nell'attribuire la sicurezza al funzionamento del protocollo e la praticità nell'avere la chiave sempre a portata.
 
-## ==Autocustodia = Resistenza alla coercizione==
+## Autocustodia = Resistenza alla coercizione
 
 ## Oscurità emergente
 

@@ -1,6 +1,5 @@
 Born from the merge of 2 Linux-native technologies: Namespaces and Control Groups.
 
-![[Pasted image 20240305144347.png]]
 ## Docker Namespaces available
 
 | Namespace | Description                |
